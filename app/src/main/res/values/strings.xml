@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="enter_a_movie_year">Enter a Movie year</string>
+    <string name="enter_a_movie_name">Enter a Movie Name</string>
+    <string name="add">ADD</string>
+    <string name="enter_a_movie_genre">Enter a Movie genre</string>
+</resources>
